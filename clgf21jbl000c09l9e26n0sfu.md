@@ -5,7 +5,7 @@ seoDescription: "How to automate Flutter Package Publishing
 How to publish flutter package with github actions"
 datePublished: Thu Apr 13 2023 11:46:26 GMT+0000 (Coordinated Universal Time)
 cuid: clgf21jbl000c09l9e26n0sfu
-slug: streamlining-your-flutter-package-publishing-workflow-automating-with-github-actions
+slug: automate-flutter-package-publishing
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SyvsTmuuZyM/upload/297361cb2a199ababf3e3d88dfae07c5.jpeg
 tags: github, dart, flutter, package, github-actions-1
 
