@@ -102,12 +102,12 @@ And the Second part is done, we've set up the Project, and now let's move forwar
     
 
 ```bash
-docker image build -t <image-name> .
+docker build -t <image-name> .
 ```
 
 Here's an explanation of what this command does
 
-* `docker image build`: This is the command to build a Docker image.
+* `docker build`: This is the command to build a Docker image.
     
 * `-t <image-name>`: The `-t` option is used to tag the image with a name. Tags are used to identify and label different versions or variants of an image.
     
