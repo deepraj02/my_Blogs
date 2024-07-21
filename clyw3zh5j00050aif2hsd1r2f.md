@@ -1,5 +1,5 @@
 ---
-title: "Essential Networking Techniques for Flutter Developers"
+title: "Essential Networking Techniques for Flutter Developers [ PART 1 ]"
 seoTitle: "Networking in Flutter with Dio"
 seoDescription: "Learn how to create network requests in flutter with dio, riverpod and fpdart"
 datePublished: Sun Jul 21 2024 22:07:37 GMT+0000 (Coordinated Universal Time)
